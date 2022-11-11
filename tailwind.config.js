@@ -2,7 +2,6 @@
 module.exports = {
   content: ["./index.html", "./src/**/*.{html,js}"],
   darkMode: "class",
-  content: ["./index.html"],
   theme: {
     extend: {
       backgroundImage: {
