@@ -2,7 +2,7 @@
   "name": "tailwind",
   "version": "1.0.0",
   "description": "Esto es un proyecto con tailwind",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx tailwindcss -i ./src/css/tailwind.css -o ./public/css/tailwind.css --watch"
